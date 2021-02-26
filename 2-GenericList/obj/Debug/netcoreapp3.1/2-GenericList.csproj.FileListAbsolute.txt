@@ -1,0 +1,13 @@
+C:\Users\Toğunçhan\Desktop\C#\C# - Collections\2-GenericList\bin\Debug\netcoreapp3.1\2-GenericList.exe
+C:\Users\Toğunçhan\Desktop\C#\C# - Collections\2-GenericList\bin\Debug\netcoreapp3.1\2-GenericList.deps.json
+C:\Users\Toğunçhan\Desktop\C#\C# - Collections\2-GenericList\bin\Debug\netcoreapp3.1\2-GenericList.runtimeconfig.json
+C:\Users\Toğunçhan\Desktop\C#\C# - Collections\2-GenericList\bin\Debug\netcoreapp3.1\2-GenericList.runtimeconfig.dev.json
+C:\Users\Toğunçhan\Desktop\C#\C# - Collections\2-GenericList\bin\Debug\netcoreapp3.1\2-GenericList.dll
+C:\Users\Toğunçhan\Desktop\C#\C# - Collections\2-GenericList\bin\Debug\netcoreapp3.1\2-GenericList.pdb
+C:\Users\Toğunçhan\Desktop\C#\C# - Collections\2-GenericList\obj\Debug\netcoreapp3.1\2-GenericList.csprojAssemblyReference.cache
+C:\Users\Toğunçhan\Desktop\C#\C# - Collections\2-GenericList\obj\Debug\netcoreapp3.1\2-GenericList.AssemblyInfoInputs.cache
+C:\Users\Toğunçhan\Desktop\C#\C# - Collections\2-GenericList\obj\Debug\netcoreapp3.1\2-GenericList.AssemblyInfo.cs
+C:\Users\Toğunçhan\Desktop\C#\C# - Collections\2-GenericList\obj\Debug\netcoreapp3.1\2-GenericList.csproj.CoreCompileInputs.cache
+C:\Users\Toğunçhan\Desktop\C#\C# - Collections\2-GenericList\obj\Debug\netcoreapp3.1\2-GenericList.dll
+C:\Users\Toğunçhan\Desktop\C#\C# - Collections\2-GenericList\obj\Debug\netcoreapp3.1\2-GenericList.pdb
+C:\Users\Toğunçhan\Desktop\C#\C# - Collections\2-GenericList\obj\Debug\netcoreapp3.1\2-GenericList.genruntimeconfig.cache
